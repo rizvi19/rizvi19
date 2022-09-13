@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rizvi19
+- 👋 Hi, I’m Shahriar Rizvi
 - 👀 I’m interested in Problem solving, Mathematics, Competitive Programming, Quantum Computing, Exploring Creative things
 - 🌱 I’m currently studying Computer Science and Engineering
 - 💞️ I’m looking to collaborate on Problem solving, something learnt new
