@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rizvi19
 - 👀 I’m interested in Problem solving, Mathematics, Competitive Programming, Quantum Computing, Exploring Creative things
 - 🌱 I’m currently studying Computer Science and Engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Problem solving, something learnt new
 - 📫 How to reach me :
          Email: shahriar10rizvi@gmail.com ;
          Telegram: https://t.me/shahriar_rizvi
